@@ -1,0 +1,23 @@
+body{
+  text-align : center;
+  padding: 40px 0px 0px 0px;
+  background-color: #bab6ab;
+  color: #232651;
+  font-family: Georgia;
+}
+
+p{
+  color: #09409b;
+}
+.group{
+  padding: 30px 0px 0px 0px;
+}
+
+#search-button{
+  background-color: #232651;
+}
+
+#tv-search-form{
+  width: 400px;
+  margin: 0 auto;
+}
